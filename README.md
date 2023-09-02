@@ -15,6 +15,7 @@ J Sainsbury Plc is a large UK retailer, owning multiple brands such as Sainsbury
 ![image](https://github.com/youngmin-jin/powerbi-business-report-sainsbury/assets/135728064/1b9912fc-4e3a-4af3-a984-08c8074ee030)
 
 
+
 <Market and competitors analysis>
 
 ![image](https://github.com/youngmin-jin/powerbi-business-report-sainsbury/assets/135728064/65b40984-f9c1-4f77-8996-e202e3020dde)
