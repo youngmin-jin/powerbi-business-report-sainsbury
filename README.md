@@ -1,6 +1,7 @@
 J Sainsbury Plc is a large UK retailer, owning multiple brands such as Sainsbury's, Argos, Habitat, and Tu. It holds the second largest market share and emphasizes sustainability and social contributions. This project has analyzed key financial indicators of Sainsbury's, market trends of the UK, and competitors using PowerBI. 
 - Data were obtained from FAME, Mintel, and Statistia.
 
+
 <Visualizations of Sainsbury's key financial indicators>
 1. Number of employees
 ![image](https://github.com/youngmin-jin/powerbi-business-report-sainsbury/assets/135728064/b2613411-8426-43ae-80db-e509d2c84c3a)
